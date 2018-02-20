@@ -3,4 +3,7 @@ Version Control
 
 Corey Stephens
 
-This might cause a merge conflict
+This might cuase a merge conflict
+
+Partner: Ritwik Awasthi
+
